@@ -2,7 +2,7 @@
 
 <p align="center">
 
-**Bayesian Statistics • Pharmacovigilance • Computational Biology • Explainable AI • FAERS • Drug Safety**
+**Bayesian Statistics • Pharmacovigilance • Computational Biology  • FAERS • Drug Safety**
 
 </p>
 
